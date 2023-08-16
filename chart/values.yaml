@@ -1,0 +1,5 @@
+appName: explore-california-website
+imageName: explorecalifornia.com:v1
+replicas: 1
+serviceName: explorecalifornia-svc
+sourcePort: 8080
